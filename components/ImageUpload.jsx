@@ -59,7 +59,6 @@ export default function ImageUpload() {
 
                         <button className="btn w-full">Upload</button>
                     </form>
-
                 </div>
             </div>
         </>
